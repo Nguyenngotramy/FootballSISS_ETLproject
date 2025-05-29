@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="footballdatawh"
+  DTS:DTSID="{C816950D-75F6-4522-B7FD-EE5A3B7E2D6E}"
+  DTS:CreationName="ODBC">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Dsn=footballdatawh;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

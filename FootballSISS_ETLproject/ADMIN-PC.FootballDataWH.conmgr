@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="ADMIN-PC.FootballDataWH"
+  DTS:DTSID="{A03F7B86-92D0-4CA0-9C44-BD2E42C14707}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=ADMIN-PC;Initial Catalog=FootballDataWH;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-FootballSISS_ETLproject-{A03F7B86-92D0-4CA0-9C44-BD2E42C14707}ADMIN-PC.FootballDataWH;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
